@@ -1,0 +1,191 @@
+what is the religious belief of spouse of <e>	cecilia_renata_of_austria	catholicism	spouse|religion
+what is the <e> 's darling 's sex	luis_munoz_marin	female	spouse|gender
+the place of death of <e> 's husband	kalama	honolulu	spouse|place_of_death
+what is the cause of death of <e> 's dad	postumus_junior	assassination	parents|cause_of_death
+please tell me <e> 's husband present address	mary_josephine_hannon_fitzgerald	boston_massachusetts	spouse|location
+what is the <e> 's daughter 's gender	yaroslav_i_the_wise	male	children|gender
+what is the hometown of <e> 's darling	maria_victoria_al_pozzo_della_cisterna	turin	spouse|place_of_birth
+what does <e> 's couple do for a living	arthur_de_wint_foote	writer	spouse|profession
+what gender is <e> 's couple	ekaterina_svanidze	male	spouse|gender
+who is the parents of <e> 's daughter	jenny_von_westphalen	jenny_von_westphalen	children|parents
+what is the <e> 's father 's organization	james_a_bayard_jr	princeton_university	parents|institution
+what is the gender of parents of <e>	natalia_alexeievna_of_russia	female	parents|gender
+what is the <e> 's mom 's nation	lady_sarah_wilson	united_kingdom	parents|nationality
+what is the nationality of son of <e>	frederick_william_i_of_prussia	germany	children|nationality
+the gender of <e> 's daughter	alice_betty_stern	male	children|gender
+the dad of <e> 's kid	chlodomer	chlodomer	children|parents
+what is the <e> 's child 's gender	grand_duke_michael_mihailovich_of_russia	female	children|gender
+what is the parents of <e> 's heir	charles_lennox_1st_duke_of_richmond	charles_lennox_1st_duke_of_richmond	children|parents
+what is the <e> 's father 's cause of death	prince_joachim_of_prussia	pulmonary_embolism	parents|cause_of_death
+the place of birth of <e> 's mom	vittorio_emanuele_count_of_turin	turin	parents|place_of_birth
+is <e> 's son a man or a woman	archduchess_maria_beatrix_of_austria_este	male	children|gender
+what is the <e> 's mom 's heir	jenny_longuet	jenny_longuet	parents|children
+what is the ethnicity of <e> 's mom	cleopatra_selene	greeks_in_egypt	parents|ethnicity
+what is the <e> 's dad 's educational institution	george_darwin	christs_college_cambridge	parents|institution
+who is the darling of <e> 's darling	arcadius	arcadius	spouse|spouse
+where does <e> 's dad come from	george_grossmith_jr	england	parents|nationality
+who is the mother of <e> 's couple	victor_emmanuel_iii_of_italy	nicholas_i_of_montenegro	spouse|parents
+what is the <e> 's children 's place of birth	pierre_curie	paris	children|place_of_birth
+the work of <e> 's other half	doris_dowling	composer	spouse|profession
+what is the educational institution of <e> 's husband	laura_devon	university_of_notre_dame|university_of_michigan	spouse|institution
+the sex of <e> 's mother	false_dmitriy_i	male	parents|gender
+what gender is <e> 's darling	benjamin_disraeli_1st_earl_of_beaconsfield	female	spouse|gender
+what is the <e> 's daughter 's sex	william_of_winchester_lord_of_lunenburg	male	children|gender
+the institution of <e> 's dad	edward_smith_stanley_14th_earl_of_derby	trinity_college_cambridge	parents|institution
+what is the ethnicity of darling of <e>	george_tabori	swedish_american|swedish_people	spouse|ethnicity
+<e> 's child 's nationality	charles_a_wickliffe	united_states	children|nationality
+<e> 's wife 's nationality	ina_claire	united_states	spouse|nationality
+what gender is <e> 's kid	louis_xvi_of_france	female	children|gender
+the nationality of darling of <e>	carole_lombard	united_states	spouse|nationality
+where did <e> 's daughter die	henry_stanton	greenwich_connecticut	children|place_of_death
+what does <e> 's daughter do for a living	william_talbot	politician|lawyer	children|profession
+the sex of <e> 's son	archduchess_maria_beatrix_of_austria_este	male	children|gender
+what is the nationality of couple of <e>	anne_of_great_britain	denmark	spouse|nationality
+what is the <e> 's parent 's son	archduke_louis_of_austria	rudolf_cardinal_von_habsburg_lothringen|archduke_joseph_of_austria_palatine_of_hungary	parents|children
+what is the nation of son of <e>	maria_luisa_of_parma	spain	children|nationality
+<e> 's parents 's mom	princess_amelia_sophia_of_great_britain	george_i_of_great_britain	parents|parents
+what is the nationality of <e> 's parents	claudius	roman_empire	parents|nationality
+the sex of <e> 's mother	henry_of_portugal	male	parents|gender
+what is the faith of <e> 's father	victor_amadeus_iii_of_sardinia	catholicism	parents|religion
+what is the profession of daughter of <e>	john_a_roebling	engineer	children|profession
+where does <e> 's parent work	tasha_tudor	harvard_university	parents|institution
+what is the <e> 's wife 's sex	princess_ileana_of_romania	male	spouse|gender
+where does <e> 's father work	lady_louisa_stuart	eton_college	parents|institution
+what is the job of children of <e>	princess_margaret_of_connaught	prince	children|profession
+what religious belief does <e> 's parents have	mihrimar	islam	parents|religion
+what does <e> 's husband do for a living	anna_lee	screenwriter	spouse|profession
+<e> 's mother 's dad	henry_i_duke_of_guise	renee_of_france	parents|parents
+<e> 's offspring 's gender	frederick_iii_german_emperor	female	children|gender
+what is the address of mother of <e>	lynn_redgrave	bristol	parents|location
+the mom of <e> 's father	princess_caroline_elizabeth_of_great_britain	george_i_of_great_britain	parents|parents
+what does <e> 's parent do	wladyslaw_czartoryski	politician	parents|profession
+what gender is <e> 's father	princess_tenagnework	male	parents|gender
+what is the <e> 's kid 's nationality	mary_de_bohun	england	children|nationality
+what is the son of mom of <e>	john_ii_casimir_of_poland	alexander_charles_vasa	parents|children
+what is the nationality of <e> 's child	grand_duke_michael_mihailovich_of_russia	united_kingdom	children|nationality
+what city did <e> 's husband die	audrey_hepburn	santa_barbara	spouse|place_of_death
+the place of death of <e> 's offspring	maria_luisa_of_parma	trieste	children|place_of_death
+<e> 's child 's gender	john_v_palaiologos	male	children|gender
+what religion does <e> 's other half have	madhubala	hinduism	spouse|religion
+the father of <e> 's child	yongzheng_emperor	yongzheng_emperor	children|parents
+what is the nationality of <e> 's mom	diego_colon	italy	parents|nationality
+what is the sex of <e> 's dad	lady_cynthia_mosley	female	parents|gender
+what is the cause of death of <e> 's dad	louise_juliana_of_nassau	assassination|firearm	parents|cause_of_death
+what is the sex of <e> 's wife	james_hepburn_4th_earl_of_bothwell	female	spouse|gender
+what is the <e> 's parent 's son	princess_margaret_of_prussia	princess_charlotte_of_prussia	parents|children
+which nationality is <e> 's other half	hermann_einstein	germany	spouse|nationality
+is <e> 's dad a man or a woman	constantine_xi	male	parents|gender
+the mother of parents of <e>	marguerite_of_france	henry_iii_duke_of_brabant	parents|parents
+the sex of <e> 's darling	lovisa_of_sweden	male	spouse|gender
+the faith of mom of <e>	ferdinand_ii_of_the_two_sicilies	roman_catholic_church	parents|religion
+the gender of daughter of <e>	joseph_p_kennedy_sr	female	children|gender
+the occupation of heir of <e>	baruch_leib_rosowsky	hazzan	children|profession
+where does <e> 's son come from	princess_beatrice_of_the_united_kingdom	united_kingdom	children|nationality
+<e> 's darling 's gender	andronikos_iii_palaiologos	female	spouse|gender
+what type of religion is <e> 's wife	james_hepburn_4th_earl_of_bothwell	catholicism	spouse|religion
+what is the <e> 's children 's work	j_presper_eckert	electrical_engineer	children|profession
+what is the <e> 's other half 's location	auguste_van_pels	lower_saxony	spouse|location
+the sex of father of <e>	frederick_v_of_denmark	female	parents|gender
+what is the son of parent of <e>	robert_c_wickliffe	robert_c_wickliffe	parents|children
+what is the sex of mother of <e>	hussein_of_jordan	male	parents|gender
+what is the nationality of son of <e>	isabella_of_castile	spain	children|nationality
+the mom of father of <e>	princess_caroline_elizabeth_of_great_britain	george_i_of_great_britain	parents|parents
+where does <e> 's parents come from	lady_louisa_stuart	scotland	parents|nationality
+the gender of darling of <e>	roger_needham	female	spouse|gender
+the nationality of couple of <e>	anne_of_great_britain	denmark	spouse|nationality
+what is the <e> 's mom 's nation	philip_iii_of_navarre	france	parents|nationality
+what is the reason of <e> 's daughter 's death	nicholas_ii_of_russia	murder|firearm	children|cause_of_death
+what is the <e> 's son 's father	mumtaz_mahal	mumtaz_mahal	children|parents
+what is the other half of <e> 's daughter	grand_duchess_alexandra_petrovna	anastasia_of_montenegro	children|spouse
+what does <e> 's parents do	skip_caray	sportscaster	parents|profession
+what gender is <e> 's couple	pearl_bailey	male	spouse|gender
+what is the <e> 's father 's kid	princess_tenagnework	princess_tsehai	parents|children
+the work of parents of <e>	buster_keaton	actor	parents|profession
+what is the <e> 's wife 's nation	anahareo	canada|united_states	spouse|nationality
+what gender is <e> 's parents	lord_robert_manners	male	parents|gender
+<e> 's spouse 's sex	mary_stuart_countess_of_bute	male	spouse|gender
+<e> 's son 's cause of death	anton_philips	accidental_fall	children|cause_of_death
+what is the <e> 's offspring 's gender	gustavus_adolphus_of_sweden	female	children|gender
+the location of daughter of <e>	louise_defeo	new_york_state	children|location
+what is the nationality of <e> 's darling	lew_cody	united_states	spouse|nationality
+where did the son of <e> die	francis_i_of_france	paris	children|place_of_death
+what is the sex of <e> 's darling	albert_vii_archduke_of_austria	female	spouse|gender
+the institution of <e> 's mom	rasmus_bartholin	university_of_copenhagen	parents|institution
+what is the <e> 's other half 's nationality	hermann_einstein	germany	spouse|nationality
+the cause of death of spouse of <e>	phillip_terry	pancreatic_cancer	spouse|cause_of_death
+what is the work of <e> 's kid	cosima_wagner	conducting|composer	children|profession
+what is the job of husband of <e>	anna_lee	screenwriter	spouse|profession
+what is the sex of <e> 's mother	rasmus_bartholin	male	parents|gender
+the child of <e> 's wife	charles_i_duke_of_burgundy	mary_of_burgundy	spouse|children
+what is the place of death of <e> 's heir	francis_iv_duke_of_modena	graz	children|place_of_death
+what is the name of the mother of <e> 's son	grand_duke_konstantin_nikolayevich_of_russia	alexandra_iosifovna_of_altenburg	children|parents
+what does <e> 's other half do	doris_dowling	composer	spouse|profession
+which nationality is <e> 's offspring	grand_duchess_alexandra_petrovna	russia	children|nationality
+<e> 's other half 's occupation	luis_munoz_marin	first_lady	spouse|profession
+the place of death of father of <e>	roy_e_disney	burbank	parents|place_of_death
+the son of <e> 's parent	princess_margaret_of_prussia	princess_charlotte_of_prussia	parents|children
+what is the <e> 's mom 's place of death	william_ii_german_emperor	potsdam	parents|place_of_death
+what gender is <e> 's husband	martha_bulloch	male	spouse|gender
+what did <e> 's darling die from	ida_lupino	lung_cancer	spouse|cause_of_death
+what is <e> 's spouse	doris_blackburn	lawyer	spouse|profession
+the cause of death of <e> 's couple	james_hepburn_4th_earl_of_bothwell	decapitation	spouse|cause_of_death
+what is the nationality of mom of <e>	diego_colon	italy	parents|nationality
+what is the gender of husband of <e>	samuel_pepys	female	spouse|gender
+what is the <e> 's heir 's place of birth	jawaharlal_nehru	allahabad	children|place_of_birth
+how <e> 's spouse died	phillip_terry	pancreatic_cancer	spouse|cause_of_death
+the sex of <e> 's parents	vasili_i_of_russia	female	parents|gender
+who is the kid of <e> 's dad	henry_iv_holy_roman_emperor	henry_iv_holy_roman_emperor	parents|children
+what is the reason of <e> 's husband 's death	doris_dowling	diabetes_mellitus	spouse|cause_of_death
+what is the darling of <e> 's father	henry_viii_of_england	elizabeth_of_york	parents|spouse
+which nationality is <e> 's husband	mary_stuart_countess_of_bute	scotland	spouse|nationality
+the child of <e> 's mother	archduke_louis_of_austria	rudolf_cardinal_von_habsburg_lothringen|archduke_joseph_of_austria_palatine_of_hungary	parents|children
+<e> 's husband 's son	caroline_webster_schermerhorn_astor	john_jacob_astor_iv	spouse|children
+what is the <e> 's husband 's place of death	kalama	honolulu	spouse|place_of_death
+the profession of kid of <e>	sigurd_ibsen	film_director|screenwriter	children|profession
+the religious belief of <e> 's other half	rani_mangammal	hinduism	spouse|religion
+who is the daughter of <e> 's mom	leonora_of_england	geoffrey_ii_duke_of_brittany	parents|children
+what is the address of parents of <e>	skip_caray	st_louis_missouri	parents|location
+what is the nation of children of <e>	maria_of_brabant	france	children|nationality
+the sex of dad of <e>	lothair_of_france	female	parents|gender
+what is <e> 's heir working on	baruch_leib_rosowsky	hazzan	children|profession
+<e> 's mother 's child	archduke_louis_of_austria	rudolf_cardinal_von_habsburg_lothringen|archduke_joseph_of_austria_palatine_of_hungary	parents|children
+<e> 's child 's gender	john_iv_of_portugal	male	children|gender
+what is the gender of <e> 's darling	roger_needham	female	spouse|gender
+what is the cause of death of <e> 's couple	carole_lombard	myocardial_infarction	spouse|cause_of_death
+the gender of <e> 's couple	empress_xiaomu	male	spouse|gender
+<e> 's children 's darling	james_ii_of_england	george_of_denmark	children|spouse
+which nationality is <e> 's mom	george_formby	england	parents|nationality
+what is the gender of <e> 's child	henry_iii_holy_roman_emperor	male	children|gender
+what is the gender of <e> 's darling	elizabeth_macquarie	male	spouse|gender
+the location of husband of <e>	mary_josephine_hannon_fitzgerald	boston_massachusetts	spouse|location
+what sex is <e> 's daughter	qianlong_emperor	male	children|gender
+what is the couple of kid of <e>	elena_pavlovna_of_wurttemberg	adolphe_grand_duke_of_luxembourg	children|spouse
+what does <e> 's kid do	marvin_pentz_gay_sr	composer|record_producer	children|profession
+what is the faith of <e> 's heir	jewna	paganism	children|religion
+what is the heir of other half of <e>	henriette_adelaide_of_savoy	joseph_clemens_of_bavaria	spouse|children
+what is the sex of <e> 's wife	princess_ileana_of_romania	male	spouse|gender
+which city did <e> 's darling born	maria_victoria_al_pozzo_della_cisterna	turin	spouse|place_of_birth
+which nationality is <e> 's child	geza_i_of_hungary	hungary	children|nationality
+what is the <e> 's darling 's gender	richard_mulligan	female	spouse|gender
+what is the sex of child of <e>	p_j_kennedy	male	children|gender
+what made the <e> 's childrendead	srinagarindra	firearm	children|cause_of_death
+the nation of other half of <e>	anahareo	canada|united_states	spouse|nationality
+the location of <e> 's father	kikkawa_motoharu	aki_province	parents|location
+what is the <e> 's darling 's place of death	anahareo	prince_albert	spouse|place_of_death
+who is the spouse of <e> 's husband	aelia_eudoxia	aelia_eudoxia	spouse|spouse
+the institution of father of <e>	thomas_lamb_eliot	harvard_divinity_school	parents|institution
+what line of business is <e> 's father in	henry_viii_of_england	monarch	parents|profession
+the place of death of daughter of <e>	henry_stanton	greenwich_connecticut	children|place_of_death
+is <e> 's mother a man or a woman	anne_of_cleves	male	parents|gender
+what is the gender of <e> 's kid	william_cavendish_bentinck_7th_duke_of_portland	female	children|gender
+what is the type of religion of other half of <e>	mariana_victoria_of_spain	catholicism	spouse|religion
+the organization of <e> 's husband	julie_london	wharton_school_of_the_university_of_pennsylvania	spouse|institution
+where does <e> 's dad work	edward_smith_stanley_14th_earl_of_derby	trinity_college_cambridge	parents|institution
+the cause of death of <e> 's parent	anna_e_roosevelt	tuberculosis	parents|cause_of_death
+the cause of death of <e> 's heir	pedro_ii_of_brazil	yellow_fever	children|cause_of_death
+what is the nation of husband of <e>	phillip_terry	france	spouse|nationality
+what is the name of the parents of <e> 's heir	charles_lennox_1st_duke_of_richmond	charles_lennox_1st_duke_of_richmond	children|parents
+<e> 's mom 's child	grand_duke_george_mikhailovich_of_russia	grand_duke_alexei_mikhailovich_of_russia	parents|children
+the daughter of <e> 's daughter	duke_peter_of_oldenburg	grand_duke_peter_nicolaievich_of_russia|grand_duke_nicholas_nicolaevich_the_younger	children|children
+what is the reason of <e> 's child 's death	maria_adelaide_of_austria	tyrannicide	children|cause_of_death
+what is <e> 's father	edith_craig	architect	parents|profession

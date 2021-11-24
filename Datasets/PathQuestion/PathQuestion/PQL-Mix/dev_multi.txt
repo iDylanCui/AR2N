@@ -1,0 +1,260 @@
+what is the recording of <e> 's colors	Highland_High_School	Blue	__education__educational_institution__colors|__music__release_track__recording
+what is the artist of <e> 's track list	Elliott_Yamin	Sarah_Brightman	__music__release__track_list|__music__recording__artist
+what is the <e> 's tracks 's tracks	Bow	Bow	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's recording 's recording	Amsterdam	Amsterdam	__music__release_track__recording|__music__release_track__recording
+what is the artist of <e> 's album	Al_Di_Meola	Al_Di_Meola	__music__artist__album|__music__album__artist
+what is the <e> 's recording 's artist	Zambia	Two_Ton_Shoe	__music__release_track__recording|__music__recording__artist
+what is the <e> 's artist 's release	Amsterdam	Krush	__music__recording__artist|__music__release_track__release
+what is the teams of <e> 's nationality	Philippe_de_Broca	Strasbourg_IG|A1_Team_France	__people__person__nationality|__sports__sports_team_location__teams
+what is the notable types of <e> 's profession	Nathaniel_P._Banks	Film_character	__people__person__profession|__common__topic__notable_types
+what is the releases of <e> 's recording	Murder	Dangerous_Ground	__music__release_track__recording|__music__recording__releases
+what is the album of <e> 's artist	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__recording__artist|__music__artist__album
+what is the notable types of <e> 's notable types	Felix_Riebl	Creative_Work	__common__topic__notable_types|__common__topic__notable_types
+what is the <e> 's permission 's permission	Martial_Arts	Martial_Arts|Martial_Artist	__type__object__permission|__type__object__permission
+what is the notable types of <e> 's release	Aurora	Film_character	__music__release_track__release|__common__topic__notable_types
+what is the releases of <e> 's label	Phil_Lanzon	Fanatic|Sketches_of_Spain|Trio_of_Doom|Thrust|Mr._Gone|Head_Hunters|Birds_of_Fire	__music__artist__label|__music__record_label__releases
+what is the <e> 's appears in topic gallery 's canonical version	Rome	Rome	__common__image__appears_in_topic_gallery|__music__recording__canonical_version
+what is the <e> 's colors 's notable types	Highland_High_School	Musical_Album	__education__educational_institution__colors|__common__topic__notable_types
+what is the <e> 's track list 's tracks	Colors_EP	Red	__music__release__track_list|__music__recording__tracks
+what is the <e> 's track 's label	Gloria	Specialty_Records|King_Records|Atlantic_Records|Chess_Records|Ace_Records	__music__artist__track|__music__artist__label
+what is the <e> 's versions 's versions	Mercy	Mercy	__music__single__versions|__music__single__versions
+what is the <e> 's tracks 's tracks	Mobile	Mobile	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's award nominations 's parents	Spider-Man_2	Leonard_Ronald_Raimi|Celia_Barbara_Abrams	__award__award_nominee__award_nominations|__people__person__parents
+what is the tracks of <e> 's place of birth	Ryan_Laird	Toronto	__people__person__place_of_birth|__music__recording__tracks
+what is the <e> 's album 's album	LP	LP	__music__release__album|__music__release__album
+what is the recording of <e> 's recording	Phoenix	Phoenix	__music__release_track__recording|__music__release_track__recording
+what is the artist of <e> 's recording	Zambia	Two_Ton_Shoe	__music__release_track__recording|__music__recording__artist
+what is the artist of <e> 's tracks	Hard_Times	NOE	__music__recording__tracks|__music__recording__artist
+what is the versions of <e> 's versions	Solstice	Solstice|Solstice_(T4L_Remix)|Solstice_(original)	__music__single__versions|__music__single__versions
+what is the releases of <e> 's releases	The_Island	The_Island	__music__album__releases|__music__album__releases
+what is the album of <e> 's artist	Ritmo_de_la_Noche	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__album__artist|__music__artist__album
+what is the <e> 's cvg genre 's recording	Golden_Axe_III	Fantasy	__cvg__computer_videogame__cvg_genre|__music__release_track__recording
+what is the <e> 's nationality 's song	Zhang_Chu	China	__people__person__nationality|__music__recording__song
+what is the notable types of <e> 's profession	Leilah_Moreno	Creative_Work	__people__person__profession|__common__topic__notable_types
+what is the tracks of <e> 's tracks	Confirmation	Confirmation	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's artist 's album	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__recording__artist|__music__artist__album
+what is the <e> 's place of death 's tracks	Évariste_Galois	Paris	__people__deceased_person__place_of_death|__music__recording__tracks
+what is the award nominations of <e> 's award nominations	Spider-Man_2	Steve_Ditko|Michael_Chabon|David_Koepp	__award__award_nominee__award_nominations|__award__award_nominee__award_nominations
+what is the <e> 's country 's teams	Kinatay	Strasbourg_IG|A1_Team_France	__film__film__country|__sports__sports_team_location__teams
+what is the album of <e> 's artist	Ritmo_de_la_Noche	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__album__artist|__music__artist__album
+what is the releases of <e> 's releases	Mean_Girls	Mean_Girls	__music__album__releases|__music__album__releases
+what is the <e> 's tracks 's tracks	Honey_Don't	Honey_Don't	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's tracks 's rating	Earthquake	PG_(USA)	__music__recording__tracks|__film__film__rating
+what is the <e> 's track list 's release	Transistor_Rhythm	The_Breakout_Trilogy|Greatest_Hits	__music__release__track_list|__music__release_track__release
+what is the notable types of <e> 's profession	David_\"Buck\"_Wheat	Creative_Work	__people__person__profession|__common__topic__notable_types
+what is the <e> 's origin 's canonical version	Tangocrisis	Buenos_Aires	__music__artist__origin|__music__recording__canonical_version
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the <e> 's nationality 's recording	Marie_Arena	Belgium	__people__person__nationality|__music__release_track__recording
+what is the releases of <e> 's versions	Eclipse	OK	__music__single__versions|__music__recording__releases
+what is the <e> 's track list 's appears in topic gallery	Elliott_Yamin	Free	__music__release__track_list|__common__image__appears_in_topic_gallery
+what is the tracks of <e> 's track list	Colors_EP	Red	__music__release__track_list|__music__recording__tracks
+what is the <e> 's recording 's recording	Robin_Hood	Robin_Hood	__music__release_track__recording|__music__release_track__recording
+what is the tracks of <e> 's tracks	Paris	Paris	__music__recording__tracks|__music__recording__tracks
+what is the works of <e> 's organism type	Mona_de_Momma	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in	__biology__organism__organism_type|__book__book_subject__works
+what is the <e> 's nationality 's teams	Michel_Vautrot	Strasbourg_IG|A1_Team_France	__people__person__nationality|__sports__sports_team_location__teams
+what is the <e> 's nationality 's contains	Gyula_Zilahi	Bohemia|Adamov|Miskolc|Prague|Kingdom_of_Hungary|Kraków	__people__person__nationality|__location__location__contains
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the <e> 's compositions 's compositions	Commander	Commander	__music__album__compositions|__music__album__compositions
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the appears in topic gallery of <e> 's appears in topic gallery	Perth	Perth	__common__image__appears_in_topic_gallery|__common__image__appears_in_topic_gallery
+what is the teams of <e> 's nationality	Marie-Joseph_Peyre	Strasbourg_IG|A1_Team_France	__people__person__nationality|__sports__sports_team_location__teams
+what is the recording of <e> 's recording	1964	1964	__music__release_track__recording|__music__release_track__recording
+what is the county of <e> 's place of birth	Karl_Burns	Dickinson_County	__people__person__place_of_birth|__location__hud_county_place__county
+what is the format of <e> 's album	Al_Di_Meola	Compact_disc	__music__artist__album|__music__release__format
+what is the has value of <e> 's author	Evolution	Height	__book__written_work__author|__freebase__valuenotation__has_value
+what is the <e> 's genre 's artist	East_of_Lo_Monthang	Joni_Mitchell	__book__book__genre|__music__recording__artist
+what is the place of <e> 's place	Bunnell	Bunnell	__location__hud_county_place__place|__location__hud_county_place__place
+what is the <e> 's track 's artist	The_Back_Room	Nils_Landgren	__music__release__track|__music__recording__artist
+what is the <e> 's appears in topic gallery 's artist	Free	Sarah_Brightman	__common__image__appears_in_topic_gallery|__music__recording__artist
+what is the olympic games contested of <e> 's athletes	James_Blake	1908_Summer_Olympics|1896_Summer_Olympics|1996_Summer_Olympics|2000_Summer_Olympics|1900_Summer_Olympics|1924_Summer_Olympics|1912_Summer_Olympics|1920_Summer_Olympics	__olympics__olympic_sport__athletes|__olympics__olympic_sport__olympic_games_contested
+what is the releases of <e> 's releases	Opium	Opium	__music__album__releases|__music__album__releases
+what is the works of <e> 's organism type	Perfect_Shirl	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in	__biology__organism__organism_type|__book__book_subject__works
+what is the <e> 's nationality 's events	Sabri_Saad_El-Hamus	Caesar's_Civil_War	__people__person__nationality|__location__location__events
+what is the <e> 's nationality 's recording	Maia_Sethna	India	__people__person__nationality|__music__release_track__recording
+what is the <e> 's profession 's notable types	Robert_Wynn	Film_character	__people__person__profession|__common__topic__notable_types
+what is the recording of <e> 's recording	Kung_Fu	Kung_Fu	__music__release_track__recording|__music__release_track__recording
+what is the tracks of <e> 's tracks	South_Australia	South_Australia	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's nationality 's recording	Rakesh_Pandey	India	__people__person__nationality|__music__release_track__recording
+what is the <e> 's label 's releases	Phil_Lanzon	Fanatic|Sketches_of_Spain|Trio_of_Doom|Thrust|Mr._Gone|Head_Hunters|Birds_of_Fire	__music__artist__label|__music__record_label__releases
+what is the <e> 's artist 's album	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__recording__artist|__music__artist__album
+what is the <e> 's tracks 's recordings	Hard_Times	Hard_Times_(live)|Hard_Times	__music__recording__tracks|__music__composition__recordings
+what is the costume design for film of <e> 's founders	Givenchy	Crack_in_the_Mirror|Charade|Sabrina	__organization__organization__founders|__film__film_costumer_designer__costume_design_for_film
+what is the <e> 's basin countries 's recording	Dal_Lake	India	__geography__lake__basin_countries|__music__release_track__recording
+what is the format of <e> 's subjects	Eloise	Compact_disc	__book__written_work__subjects|__music__release__format
+what is the <e> 's country 's teams	Paroles_et_musique	Strasbourg_IG|A1_Team_France	__film__film__country|__sports__sports_team_location__teams
+what is the recording of <e> 's recording	Fireball	Fireball	__music__release_track__recording|__music__release_track__recording
+what is the recording of <e> 's nationality	S._S._Ahluwalia	India	__people__person__nationality|__music__release_track__recording
+what is the <e> 's genre 's artist	Straight-A_teacher	Joni_Mitchell	__book__book__genre|__music__recording__artist
+what is the <e> 's track list 's notable types	Final_Day	Musical_Album	__music__release__track_list|__common__topic__notable_types
+what is the <e> 's athletes 's olympic games contested	James_Blake	1908_Summer_Olympics|1896_Summer_Olympics|1996_Summer_Olympics|2000_Summer_Olympics|1900_Summer_Olympics|1924_Summer_Olympics|1912_Summer_Olympics|1920_Summer_Olympics	__olympics__olympic_sport__athletes|__olympics__olympic_sport__olympic_games_contested
+what is the recording of <e> 's containedby	Trenton	Indiana	__location__location__containedby|__music__release_track__recording
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the recording of <e> 's recording	David	David	__music__release_track__recording|__music__release_track__recording
+what is the <e> 's place of birth 's county	Karl_Burns	Dickinson_County	__people__person__place_of_birth|__location__hud_county_place__county
+what is the releases of <e> 's art form	Afghanistan	Epilogue	__visual_art__artwork__art_form|__music__recording__releases
+what is the notable types of <e> 's place of death	Owen_Kahn	City_Town_Village	__people__deceased_person__place_of_death|__common__topic__notable_types
+what is the <e> 's organism type 's works	Abercrombie	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in	__biology__organism__organism_type|__book__book_subject__works
+what is the <e> 's containedby 's recording	Begijnendijk	Belgium	__location__location__containedby|__music__release_track__recording
+what is the <e> 's profession 's notable types	Jody_Harris	Creative_Work	__people__person__profession|__common__topic__notable_types
+what is the <e> 's release 's release	Free	Free	__music__release_track__release|__music__release_track__release
+what is the album of <e> 's album	Bewitched	Bewitched	__music__release__album|__music__release__album
+what is the releases of <e> 's recording	New_York_City	Ooh,_Baby	__music__release_track__recording|__music__recording__releases
+what is the <e> 's recording 's recording	Step_Up	Step_Up	__music__release_track__recording|__music__release_track__recording
+what is the tracks of <e> 's tracks	Red	Red	__music__recording__tracks|__music__recording__tracks
+what is the recording of <e> 's place of birth	Sheetal	India	__people__person__place_of_birth|__music__release_track__recording
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the <e> 's release 's appears in topic gallery	Free	Free	__music__release_track__release|__common__image__appears_in_topic_gallery
+what is the lyricist of <e> 's place of birth	Karl_Burns	Paul_Heaton	__people__person__place_of_birth|__music__composition__lyricist
+what is the recording of <e> 's recording	Bobby	Bobby	__music__release_track__recording|__music__release_track__recording
+what is the <e> 's track 's tracks	Lonely_House	Believe	__music__release__track|__music__recording__tracks
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the contains of <e> 's nationality	István_Lázár	Bohemia|Adamov|Miskolc|Prague|Kingdom_of_Hungary|Kraków	__people__person__nationality|__location__location__contains
+what is the <e> 's nationality 's teams	Philippe_de_Broca	Strasbourg_IG|A1_Team_France	__people__person__nationality|__sports__sports_team_location__teams
+what is the <e> 's nationality 's contains	Gyula_Zilahi	Bohemia|Adamov|Miskolc|Prague|Kingdom_of_Hungary|Kraków	__people__person__nationality|__location__location__contains
+what is the release of <e> 's track	Lonely_House	The_Breakout_Trilogy|Greatest_Hits	__music__release__track|__music__release_track__release
+what is the <e> 's place of birth 's canonical version	Pappo	Buenos_Aires	__people__person__place_of_birth|__music__recording__canonical_version
+what is the versions of <e> 's versions	Twilight	Twilight	__music__single__versions|__music__single__versions
+what is the recording of <e> 's genre	Castle_Roogna	Fantasy	__book__book__genre|__music__release_track__recording
+what is the versions of <e> 's versions	Red_Baron	Red_Baron	__cvg__computer_videogame__versions|__cvg__computer_videogame__versions
+what is the tracks of <e> 's tracks	Brown_Sugar	Brown_Sugar	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's governing officials 's next episode	Richard_W._Leche	Tasmania	__government__governmental_jurisdiction__governing_officials|__tv__tv_series_episode__next_episode
+what is the notable types of <e> 's colors	Lasell_College	Musical_Album	__education__educational_institution__colors|__common__topic__notable_types
+what is the <e> 's track list 's author	Reminiscence	Charles_Darwin	__music__release__track_list|__book__written_work__author
+what is the <e> 's versions 's versions	Red_Baron	Red_Baron	__cvg__computer_videogame__versions|__cvg__computer_videogame__versions
+what is the gender of <e> 's artist	Lost:_Season_5	Male	__music__album__artist|__people__person__gender
+what is the <e> 's album 's album	Annunciation	Annunciation	__music__release__album|__music__release__album
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the <e> 's nationality 's recording	Durga_Jasraj	India	__people__person__nationality|__music__release_track__recording
+what is the <e> 's artist 's album	Ritmo_de_la_Noche	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__album__artist|__music__artist__album
+what is the recording of <e> 's recording	Belgium	Belgium	__music__release_track__recording|__music__release_track__recording
+what is the tracks of <e> 's tracks	Euthanasia	Euthanasia	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's nationality 's recording	Pramatha_Nath_Bose	India	__people__person__nationality|__music__release_track__recording
+what is the <e> 's artist 's album	Habanera	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__recording__artist|__music__artist__album
+what is the art form of <e> 's nationality	Sultan_Munadi	Photography	__people__person__nationality|__visual_art__artwork__art_form
+what is the tracks of <e> 's tracks	Freedom_Park	Freedom_Park	__music__recording__tracks|__music__recording__tracks
+what is the directed by of <e> 's recording	Wake	Ellie_Kanner	__music__release_track__recording|__film__film__directed_by
+what is the contains of <e> 's nationality	Gyula_Zilahi	Bohemia|Adamov|Miskolc|Prague|Kingdom_of_Hungary|Kraków	__people__person__nationality|__location__location__contains
+what is the <e> 's tracks 's recording	South_Australia	South_Australia	__music__recording__tracks|__music__release_track__recording
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the <e> 's versions 's tracks	Titan	Titan	__music__single__versions|__music__recording__tracks
+what is the <e> 's track 's releases	Crazy_Horse	New_Orleans	__music__artist__track|__music__album__releases
+what is the <e> 's governing officials 's recording	Rajendra_Prasad	India	__government__governmental_jurisdiction__governing_officials|__music__release_track__recording
+what is the <e> 's tracks 's tracks	Euthanasia	Euthanasia	__music__recording__tracks|__music__recording__tracks
+what is the <e> 's award nominations 's parents	Spider-Man_2	Leonard_Ronald_Raimi|Celia_Barbara_Abrams	__award__award_nominee__award_nominations|__people__person__parents
+what is the <e> 's recording 's recording	Rottweiler	Rottweiler	__music__release_track__recording|__music__release_track__recording
+what is the appears in topic gallery of <e> 's appears in topic gallery	Rome	Rome	__common__image__appears_in_topic_gallery|__common__image__appears_in_topic_gallery
+what is the hud county place of <e> 's containedby	Waipio_Acres	Honolulu|Kailua	__location__location__containedby|__location__us_county__hud_county_place
+what is the <e> 's track 's release	Paul_Stanley	Electric_Ladyland_VI	__music__artist__track|__music__release_track__release
+what is the <e> 's genre 's artist	Jaguarundi	Joni_Mitchell	__book__book__genre|__music__recording__artist
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the recording of <e> 's track	Lonely_House	Believe	__music__release__track|__music__release_track__recording
+what is the <e> 's organism type 's works	Success_Express	Black_Beauty|Horse_Anatomy|Sidesaddle|Reining_in	__biology__organism__organism_type|__book__book_subject__works
+what is the people born here of <e> 's containedby	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the <e> 's colors 's notable types	Lasell_College	Musical_Album	__education__educational_institution__colors|__common__topic__notable_types
+what is the <e> 's appears in topic gallery 's release	Free	Free	__common__image__appears_in_topic_gallery|__music__release_track__release
+what is the <e> 's containedby 's people born here	Brahmakulam	Suma_Kanakala|Roysten_Abel|R._Sugathan|K._M._Cherian|Rishi|T._M._Jacob|N.P._Prakash|Sangeeth_Sivan|Shyamaprasad|Tapovan_Maharaj|Bhagyalakshmi|Aparna_Nair|Kannam_Kulam_Abdulla|M._N._Vijayan|A._Ayyappan|Rajan_Pillai|Wahid_Sali|Prakash_Bobby|K_Hari_Kumar|Sunny_Joseph|C._N._Balakrishnan|Usharani_Nair|Preethi_Nair|Shashi_Warrier|Venu_Nair|Nimisha_Suresh|Eknath_Easwaran|Sohan_Roy|V._M._Sudheeran|Jeet_Thayil|C.K._Vineeth|Suma_Josson|Joseph_Mundassery|Sathaar|K._V._Simon|Sudheesh|Suresh_Balaje|Sibi_K._Thomas|Helen_Mary|Ali_Akbar|Rajeev_Sreenivasa|Theresa_Setlur|Mor_Severios|Kalpana|Lalu_KV|Anusree|N._R._Pillai|Vellapally_Natesan|Rekha_Mallick|V._K._N.|Tom_George|P._Vasu	__location__location__containedby|__location__location__people_born_here
+what is the <e> 's artist 's gender	Lost:_Season_5	Male	__music__album__artist|__people__person__gender
+what is the artist of <e> 's nationality	Sussan_Deyhim	Azra	__people__person__nationality|__music__recording__artist
+what is the <e> 's split to 's split to	One_Fine_Day	One_Fine_Day	__dataworld__gardening_hint__split_to|__dataworld__gardening_hint__split_to
+what is the notable types of canonical version of <e> 's canonical version	Lost	Musical_Album	__music__recording__canonical_version|__music__recording__canonical_version|__common__topic__notable_types
+what is the tracks of tracks of <e> 's tracks	Mobile	Mobile	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the release of recording of <e> 's recording	Another_Day	Krush	__music__release_track__recording|__music__release_track__recording|__music__release_track__release
+what is the releases of releases of <e> 's releases	Columbus	Columbus	__music__album__releases|__music__album__releases|__music__album__releases
+what is the tracks of recordings of <e> 's track list	Close_as_You_Get	Hard_Times	__music__release__track_list|__music__composition__recordings|__music__recording__tracks
+what is the album of album of <e> 's album	Dogma	Dogma	__music__release__album|__music__release__album|__music__release__album
+what is the release of track of <e> 's track list	Transmission	The_Breakout_Trilogy|Greatest_Hits	__music__release__track_list|__music__artist__track|__music__release_track__release
+what is the release of recording of <e> 's recording	Telephone	Blood_on_My_Blazer	__music__release_track__recording|__music__release_track__recording|__music__release_track__release
+what is the tracks of tracks of <e> 's tracks	2001	2001	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the tracks of tracks of <e> 's tracks	Daniel	Daniel	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the tracks of tracks of <e> 's tracks	The_Old_Man	The_Old_Man	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the canonical version of canonical version of <e> 's titles	Cult_Comedies	Sixteen_Candles	__media_common__netflix_genre__titles|__music__recording__canonical_version|__music__recording__canonical_version
+what is the recording of recording of <e> 's recording	Viola	Viola	__music__release_track__recording|__music__release_track__recording|__music__release_track__recording
+what is the recording of recording of <e> 's nationality	Durga_Jasraj	India	__people__person__nationality|__music__release_track__recording|__music__release_track__recording
+what is the canonical version of tracks of <e> 's canonical version	Lost	Lost	__music__recording__canonical_version|__music__recording__tracks|__music__recording__canonical_version
+what is the album of artist of <e> 's album	Al_Di_Meola	Elegant_Gypsy|This_Is_Jazz_31|He_&_Carmen|The_Rite_of_Strings|Anthology|All_Your_Life|World_Sinfonia|The_Guitar_Hero|The_Infinite_Desire|Acoustic_Anthology|Tirami_Su|Ritmo_de_la_Noche|The_Collection|Electric_Rendezvous|Casino|Winter_Nights|Vocal_Rendezvous|Revisited|Sunday_in_Boston|Kiss_My_Axe	__music__artist__album|__music__album__artist|__music__artist__album
+what is the recording of recording of <e> 's genre	The_Rats_of_Hamelin	Fantasy	__book__book__genre|__music__release_track__recording|__music__release_track__recording
+what is the song of song of <e> 's containedby	Batang_County	China	__location__location__containedby|__music__recording__song|__music__recording__song
+what is the release of recording of <e> 's track	The_B.B._&_Q._Band	Framed_Lives|Like_a_Virgin	__music__artist__track|__music__release_track__recording|__music__release_track__release
+what is the recordings of release of <e> 's track list	Elliott_Yamin	Free	__music__release__track_list|__music__release_track__release|__music__composition__recordings
+what is the releases of recording of <e> 's releases	Another_Day	Another_Day	__music__album__releases|__music__release_track__recording|__music__album__releases
+what is the genre of release of <e> 's track	Lonely_House	Gangsta_rap	__music__release__track|__music__release_track__release|__music__album__genre
+what is the releases of recording of <e> 's recording	Another_Day	Another_Day	__music__release_track__recording|__music__release_track__recording|__music__album__releases
+what is the release of tracks of <e> 's track	Pulse	The_Breakout_Trilogy|Greatest_Hits	__music__artist__track|__music__recording__tracks|__music__release_track__release
+what is the versions of versions of <e> 's versions	New_York_City	New_York_City	__music__single__versions|__music__single__versions|__music__single__versions
+what is the song of recording of <e> 's song	Believe	Believe	__music__recording__song|__music__release_track__recording|__music__recording__song
+what is the tracks of tracks of <e> 's tracks	O_Holy_Night	O_Holy_Night	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the tracks of tracks of <e> 's tracks	History	History	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the place of place of <e> 's place	Turkey	Turkey	__location__hud_county_place__place|__location__hud_county_place__place|__location__hud_county_place__place
+what is the place of birth of people born here of <e> 's place of birth	Thomas_Joseph_Drury	Ballymote	__people__person__place_of_birth|__location__location__people_born_here|__people__person__place_of_birth
+what is the artist of appears in topic gallery of <e> 's appears in topic gallery	Free	Ultra_Naté|Sarah_Brightman	__common__image__appears_in_topic_gallery|__common__image__appears_in_topic_gallery|__music__recording__artist
+what is the artist of recording of <e> 's tracks	O_Holy_Night	Liberace	__music__recording__tracks|__music__release_track__recording|__music__recording__artist
+what is the artist of recording of <e> 's recording	Stay	Louise_Redknapp	__music__release_track__recording|__music__release_track__recording|__music__recording__artist
+what is the canonical version of book of <e> 's place of birth	Gianfranco_Parolini	Rome	__people__person__place_of_birth|__book__book_edition__book|__music__recording__canonical_version
+what is the recording of tracks of <e> 's track list	21	Always	__music__release__track_list|__music__recording__tracks|__music__release_track__recording
+what is the recording of recording of <e> 's appears in topic gallery	Smetana	Viola	__common__image__appears_in_topic_gallery|__music__release_track__recording|__music__release_track__recording
+what is the tracks of versions of <e> 's tracks	Titan	Titan	__music__recording__tracks|__music__single__versions|__music__recording__tracks
+what is the recording of recording of <e> 's track list	Parthenon	Closer	__music__release__track_list|__music__release_track__recording|__music__release_track__recording
+what is the book of canonical version of <e> 's place of birth	Claudia_Gerini	Rome	__people__person__place_of_birth|__music__recording__canonical_version|__book__book_edition__book
+what is the notable types of recording of <e> 's recording	Wake	Consumer_product|Musical_Artist	__music__release_track__recording|__music__release_track__recording|__common__topic__notable_types
+what is the artist of release of <e> 's track list	Elliott_Yamin	Ultra_Naté|Sarah_Brightman	__music__release__track_list|__music__release_track__release|__music__recording__artist
+what is the recording of recording of <e> 's track	Pulse	Believe	__music__artist__track|__music__release_track__recording|__music__release_track__recording
+what is the release of artist of <e> 's recording	Amsterdam	Krush	__music__release_track__recording|__music__recording__artist|__music__release_track__release
+what is the release of release of <e> 's release	Aurora	Aurora	__music__release_track__release|__music__release_track__release|__music__release_track__release
+what is the book of canonical version of <e> 's place of death	Vittorio_Metz	Rome	__people__deceased_person__place_of_death|__music__recording__canonical_version|__book__book_edition__book
+what is the recording of versions of <e> 's versions	New_York_City	New_York_City	__music__single__versions|__music__single__versions|__music__release_track__recording
+what is the song of song of <e> 's country	China,_My_Sorrow	China	__film__film__country|__music__recording__song|__music__recording__song
+what is the canonical version of canonical version of <e> 's canonical version	Rome	Rome	__music__recording__canonical_version|__music__recording__canonical_version|__music__recording__canonical_version
+what is the recording of recording of <e> 's netflix genres	The_Seventh_Curse	Fantasy	__media_common__netflix_title__netflix_genres|__music__release_track__recording|__music__release_track__recording
+what is the tracks of tracks of <e> 's tracks	The_Choice	The_Choice	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the release of recording of <e> 's track	Lonely_House	The_Breakout_Trilogy|Greatest_Hits	__music__release__track|__music__release_track__recording|__music__release_track__release
+what is the tracks of tracks of <e> 's region	EightBreeders	Earth	__music__release__region|__music__recording__tracks|__music__recording__tracks
+what is the versions of versions of <e> 's track list	Über_Cobra	Mercy	__music__release__track_list|__music__single__versions|__music__single__versions
+what is the song of song of <e> 's song	China	China	__music__recording__song|__music__recording__song|__music__recording__song
+what is the tracks of tracks of <e> 's tracks	Kim	Kim	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the artist of song of <e> 's track	Pulse	Ministers_De-La-Funk	__music__artist__track|__music__recording__song|__music__recording__artist
+what is the versions of versions of <e> 's recording	New_York_City	New_York_City	__music__release_track__recording|__music__single__versions|__music__single__versions
+what is the track of release of <e> 's recording	Believe	I_Miss_You|All_the_Small_Things	__music__release_track__recording|__music__release_track__release|__music__release__track
+what is the canonical version of canonical version of <e> 's canonical version	Buenos_Aires	Buenos_Aires	__music__recording__canonical_version|__music__recording__canonical_version|__music__recording__canonical_version
+what is the release of recordings of <e> 's appears in topic gallery	Free	Free	__common__image__appears_in_topic_gallery|__music__composition__recordings|__music__release_track__release
+what is the recording of recording of <e> 's recording	Another_Day	Another_Day	__music__release_track__recording|__music__release_track__recording|__music__release_track__recording
+what is the recordings of tracks of <e> 's tracks	Hard_Times	Hard_Times_(live)|Hard_Times	__music__recording__tracks|__music__recording__tracks|__music__composition__recordings
+what is the artist of release of <e> 's appears in topic gallery	Free	Ultra_Naté|Sarah_Brightman	__common__image__appears_in_topic_gallery|__music__release_track__release|__music__recording__artist
+what is the recording of tracks of <e> 's track list	Transistor_Rhythm	Believe	__music__release__track_list|__music__recording__tracks|__music__release_track__recording
+what is the tracks of tracks of <e> 's tracks	Always	Always	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the releases of recording of <e> 's recording	Murder	Dangerous_Ground	__music__release_track__recording|__music__release_track__recording|__music__recording__releases
+what is the artist of tracks of <e> 's tracks	O_Holy_Night	Liberace	__music__recording__tracks|__music__recording__tracks|__music__recording__artist
+what is the releases of recording of <e> 's recording	Another_Day	The_Muffs	__music__release_track__recording|__music__release_track__recording|__music__recording__releases
+what is the versions of recording of <e> 's versions	Twilight	Twilight	__music__single__versions|__music__release_track__recording|__music__single__versions
+what is the releases of release of <e> 's track	Grammy_Nominees_1996	Afro-Rock,_Volume_1	__music__release__track|__music__release_track__release|__music__recording__releases
+what is the notable types of recording of <e> 's colors	Lasell_College	Musical_Album	__education__educational_institution__colors|__music__release_track__recording|__common__topic__notable_types
+what is the canonical version of canonical version of <e> 's canonical version	Cuba	Cuba	__music__recording__canonical_version|__music__recording__canonical_version|__music__recording__canonical_version
+what is the recording of recording of <e> 's recording	Busted	Busted	__music__release_track__recording|__music__release_track__recording|__music__release_track__recording
+what is the tracks of recording of <e> 's tracks	Believe	Believe	__music__recording__tracks|__music__release_track__recording|__music__recording__tracks
+what is the tracks of tracks of <e> 's nationality	Luis_Ernesto_Pérez	Mexico	__people__person__nationality|__music__recording__tracks|__music__recording__tracks
+what is the releases of recording of <e> 's versions	New_York_City	Ooh,_Baby	__music__single__versions|__music__release_track__recording|__music__recording__releases
+what is the canonical version of canonical version of <e> 's place of birth	Yamila_Diaz-Rahi	Buenos_Aires	__people__person__place_of_birth|__music__recording__canonical_version|__music__recording__canonical_version
+what is the artist of recording of <e> 's song	Believe	Ministers_De-La-Funk	__music__recording__song|__music__release_track__recording|__music__recording__artist
+what is the tracks of tracks of <e> 's tracks	Brown_Sugar	Brown_Sugar	__music__recording__tracks|__music__recording__tracks|__music__recording__tracks
+what is the canonical version of book of <e> 's place of birth	Claudia_Gerini	Rome	__people__person__place_of_birth|__book__book_edition__book|__music__recording__canonical_version
+what is the active moiety of drug of active moiety of drug of <e> 's active moiety of drug	Rosuvastatin	Rosuvastatin|Rosuvastatin_calcium	__medicine__drug_ingredient__active_moiety_of_drug|__medicine__drug_ingredient__active_moiety_of_drug|__medicine__drug_ingredient__active_moiety_of_drug
+what is the primary release of primary release of <e> 's primary release	Beach_Cruiser	Beach_Cruiser	__music__album__primary_release|__music__album__primary_release|__music__album__primary_release
+what is the recording of recording of <e> 's track	Megaphone	Purple	__music__artist__track|__music__release_track__recording|__music__release_track__recording
+what is the artist of releases of <e> 's track	Crazy_Horse	Idris_Muhammad	__music__artist__track|__music__album__releases|__music__recording__artist
+what is the versions of versions of <e> 's versions	Martyr	Martyr	__music__single__versions|__music__single__versions|__music__single__versions
+what is the releases of artist of <e> 's recording	Amsterdam	Another_Day	__music__release_track__recording|__music__recording__artist|__music__album__releases
+what is the recording of track of <e> 's track list	Trax_Classix	Believe	__music__release__track_list|__music__artist__track|__music__release_track__recording
+what is the recording of recording of <e> 's recording	India	India	__music__release_track__recording|__music__release_track__recording|__music__release_track__recording
+what is the album of album of <e> 's track list	BELIEVE	BELIEVE	__music__release__track_list|__music__release__album|__music__release__album
+what is the versions of versions of <e> 's versions	Red_Baron	Red_Baron	__cvg__computer_videogame__versions|__cvg__computer_videogame__versions|__cvg__computer_videogame__versions
+what is the notable types of release of <e> 's cities	Chagrin_River	Film_character	__geography__river__cities|__music__release_track__release|__common__topic__notable_types
+what is the recording of recording of <e> 's genre	Imagination	Fantasy	__film__film__genre|__music__release_track__recording|__music__release_track__recording
+what is the release of tracks of <e> 's song	Believe	The_Breakout_Trilogy|Greatest_Hits	__music__recording__song|__music__recording__tracks|__music__release_track__release
+what is the notable types of recording of <e> 's recording	Mercy	Musical_Album	__music__release_track__recording|__music__release_track__recording|__common__topic__notable_types
+what is the song of song of <e> 's track	Pulse	Believe	__music__artist__track|__music__recording__song|__music__recording__song
+what is the release of appears in topic gallery of <e> 's track list	Elliott_Yamin	Free	__music__release__track_list|__common__image__appears_in_topic_gallery|__music__release_track__release
+what is the recordings of tracks of <e> 's track list	Close_as_You_Get	Hard_Times_(live)|Hard_Times	__music__release__track_list|__music__recording__tracks|__music__composition__recordings
+what is the recording of recording of <e> 's country	Mr._Hot_Mr._Kool	India	__film__film__country|__music__release_track__recording|__music__release_track__recording
+what is the versions of tracks of <e> 's tracks	Day_of_the_Dead	Day_of_the_Dead	__music__recording__tracks|__music__recording__tracks|__music__single__versions
+what is the canonical version of canonical version of <e> 's track list	Final_Day	Lost	__music__release__track_list|__music__recording__canonical_version|__music__recording__canonical_version
+what is the recording of song of <e> 's tracks	Believe	Believe	__music__recording__tracks|__music__recording__song|__music__release_track__recording
+what is the tracks of tracks of <e> 's recording	Confirmation	Confirmation	__music__release_track__recording|__music__recording__tracks|__music__recording__tracks
