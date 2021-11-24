@@ -1,42 +1,27 @@
-# Anticipation Reasoning Network
+# Adversarial Reinforcement Reasoning Network
 
-Source codes and datasets for the paper "Incorporating Anticipation Embedding into Reinforcement Learning Framework for Multi-hop Knowledge Graph Question Answering".
+Source codes and datasets for the paper "Path-based Multi-hop Reasoning over Knowledge Graph for Answering Questions via Adversarial Reinforcement Learning".
 
-![](./model_overview.png)
+The architectures of the answer generator and path discriminator are as follows:
+
+![gen-dis](/Users/dmwis/Desktop/gen-dis.png)
+
+The overall procedure of AR2N is as follow:
+
+![](./overview.png)
 
 ## Train
 
 ```
-cd /Code/RL_A3C
-python main.py --train --dataset=<dataset> --KGE_model=<KGE> --strategy=<strategy>
+cd /Codes/GAN
+python main.py --train --dataset=<dataset>
 ```
 
-`dataset` is the name of datasets. In our experiments, `dataset` could be `PQ-2H`, `PQ-3H`, `PQ-mix`, `PQL-2H`, `PQL-3H`, `PQL-mix`, `MetaQA-1H`, `MetaQA-2H` or `MetaQA-3H`.
-
-`KGE` is the model of knowledge graph embedding. In our experiments, `KGE` could be `DistMult`, `ComplEx`, `ConvE` or `TuckER`.
-
-`strategy` is the strategy to obtain anticipation embeddings. In our experiments, `strategy` could be `sample`, `avg` or `top1`.
+`dataset` is the name of datasets. In our experiments, `dataset` could be `PQ-2H`, `PQ-3H`, `PQ-mix`, `PQL-2H`, `PQL-3H`, `PQL-mix`, `MetaQA-1H`, `MetaQA-2H`, `MetaQA-3H` or `MetaQA-mix`.
 
 ## Test
 
 ```
-cd /Code/RL_A3C
+cd /Codes/GAN
 python main.py --eval --dataset=<dataset>
 ```
-
- ## Acknowledgements
-
-We thank a lot for the following outstanding works:
-
-- [Episodic Memory Reader](https://github.com/h19920918/emr)
-
-- [EmbedKGQA](https://github.com/malllabiisc/EmbedKGQA)
-
-- [DacKGR](https://github.com/THU-KEG/DacKGR)
-
-- [PyTorch-A3C](https://github.com/ikostrikov/pytorch-a3c)
-
-  
-
-  
-
