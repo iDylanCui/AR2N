@@ -4,7 +4,7 @@ Source codes and datasets for the paper "Path-based Multi-hop Reasoning over Kno
 
 The architectures of the answer generator and path discriminator are as follows:
 
-![gen-dis](/Users/dmwis/Desktop/gen-dis.png)
+![gen-dis](./gen-dis.png)
 
 The overall procedure of AR2N is as follow:
 
